@@ -1,0 +1,12 @@
+{
+  "name": "mostly-adequate",
+  "version": "1.0.0",
+  "description": "Learning FP in JS",
+  "main": "index.js",
+  "author": "sigfried",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@mostly-adequate/support": "^2.0.1"
+  }
+}
